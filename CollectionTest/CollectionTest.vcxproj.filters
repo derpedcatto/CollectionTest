@@ -18,15 +18,21 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SinglyLinkedList.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SinglyLinkedList.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Collection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DoublyLinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Set.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

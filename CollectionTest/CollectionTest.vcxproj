@@ -140,10 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="SinglyLinkedList.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Collection.h" />
+    <ClInclude Include="DoublyLinkedList.h" />
+    <ClInclude Include="Set.h" />
+    <ClInclude Include="Node.h" />
     <ClInclude Include="SinglyLinkedList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
